@@ -2,6 +2,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ticketpaper&show_icons=true&theme=radical)
 
+github-readme-stats.vercel.app/api/top-langs/?username={ticketpaper}&langs_count=8
+ 
 <!--
 **ticketpaper/ticketpaper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
