@@ -1,8 +1,17 @@
-### 👋👋
+### <p align ="center">👋 HI 👋</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ticketpaper&show_icons=true&theme=radical)
-
-![Most Used Languages](github-readme-stats.vercel.app/api/top-langs/?username={ticketpaper}&langs_count=8)
+<h3 align="center">🔥 My Most Used Languages 🔥</h3>
+<p align="center">
+  <a href="https://github.com/ticketpaper">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ticketpaper&layout=compact&show_icons=true&show_owner=true&theme=swift" />
+  </a>
+</p>
+<h3 align="center">🔥 My Git Stats 🔥</h3>
+<p align="center">
+  <a href="https://github.com/ticketpaper">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ticketpaper&locale=kr&hide_title=true&show_icons=false&include_all_commits=true&theme=swift"/>
+  </a>
+</p>
  
 <!--
 **ticketpaper/ticketpaper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
