@@ -1,7 +1,7 @@
 ### 👋 HI 👋
 
 <a href="https://github.com/ticketpaper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ticketpaper&locale=kr&show_icons=true&include_all_commits=true&theme=swift"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ticketpaper&locale=kr&show_icons=true&include_all_commits=true"/>
 </a> 
 <a href="https://github.com/ticketpaper">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ticketpaper&layout=compact&show_icons=true&show_owner=true&theme=swift" />
