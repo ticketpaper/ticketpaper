@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=soft&color=9BA44E&height=200&section=header&text=TicketPaper's%20GitHub%20👋&fontSize=50&animation=fadeIn&fontColor=ffffff"/>
 </p>
 <p align='center'>
-  🙋‍♂️ 안녕하세요! <br>
+  🙋‍♂️ 안녕하세요! 이종표 입니다! <br>
   <br>
   Email: dlwhdvy369@naver.com
 </p>
